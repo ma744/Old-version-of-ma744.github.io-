@@ -1,0 +1,39 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            Marcels Site
+tagline:          Projekte rund um Scripting, Linux, Python und mehr
+intro:            "Dokumentation über meine Projekte"
+description:      "Dokumentationen über meine Projekte rund um Scripting, Linux, Python, sowie IT-Sicherheit, Dark Themes, JavaScript-Projekten und Kryptographie"
+url:              https://marcel-artz.de
+baseurl:          /
+                  # the optional subpath of your site, e.g. "/my-jekyll-site/"
+                  # This will apply to all pages in your Jekyll site.
+
+author:
+  email:          mail@marcel-artz.de
+  name:           Marcel Artz
+  url:            https://marcel-artz.de
+
+logo:             /public/images/opg/opg-img.png
+lang:             de-de
+
+paginate:         4
+paginate_path:    /posts/page:num
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Custom vars
+version:            1.0.0
+
+github:
+  repo:             https://github.com/ma744/
+

@@ -14,9 +14,8 @@ title: Impressum
 
 **Kontakt:**
 
-E-Mail: <span class="bot">ed[tod]ztra-lecram [ta] ofni</span>
+E-Mail: <span class="bot">ed[tod]ztra-lecram [ta] tkatnok</span>
 
-Falls die Anfrage nicht rechtlicher Natur o.ä. ist und in Bezug auf das Impressum oder die Datenschutzerklärung nimmt, möchte ich Sie bitten [meine andere Email-Adresse](https://marcel-artz.de/contact.html) zu verwenden.
 Ich weise Sie daraufhin, dass die Kommunikation per E-Mail Sicherheitslücken aufweißt.
 
 

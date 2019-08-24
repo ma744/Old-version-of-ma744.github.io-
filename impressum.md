@@ -14,7 +14,7 @@ title: Impressum
 
 **Kontakt:**
 
-E-Mail: <span class="bot">ed[tod]ztra-lecram [ta] tkatnok</span>
+E-Mail: <span class="bot">ed[tod]ztra-lecram [ta] liame</span>
 
 Ich weise Sie daraufhin, dass die Kommunikation per E-Mail Sicherheitslücken aufweißt.
 

@@ -1,7 +1,7 @@
 
 **NO LONGER UNDER MAINTENANCE**
 
-(New Website https://marcel-artz.de[https://marcel-artz.de])
+(New Website: https://marcel-artz.de)
 
 [German]
 

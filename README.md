@@ -1,8 +1,7 @@
 
 **NO LONGER UNDER MAINTENANCE**
 
-See Enfield-Jekyll-Theme[https://github.com/ma744/enfield-jekyll-theme] 
-for future updates
+(New Website https://marcel-artz.de[https://marcel-artz.de])
 
 [German]
 
